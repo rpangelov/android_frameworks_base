@@ -9569,7 +9569,7 @@ public final class Settings {
          *
          * @hide
          */
-        public static final String FULLSCREEN_KEYBOARD = "fullscreen_keyboard";
+        public static final String FULLSCREEN_KEYBOARD = "disable_fullscreen_keyboard";
     }
 
     /**

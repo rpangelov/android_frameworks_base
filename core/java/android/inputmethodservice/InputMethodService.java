@@ -43,6 +43,7 @@ import android.os.ServiceManager;
 import android.os.SystemClock;
 import android.os.UserHandle;
 import android.provider.Settings;
+import android.provider.Settings.System;
 import android.text.InputType;
 import android.text.Layout;
 import android.text.Spannable;
